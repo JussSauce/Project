@@ -6,10 +6,17 @@
     font-size: 35px;
     color: rgb(206, 21, 21);
 }
-     nav{
-        float: left;
-        width: 30%;
-        height: 300px; 
-        background: #ccc;
-        padding: 20px;
-  }
+
+nav {
+    float: middle;
+    width: 15%;
+    height: 15%;
+    background: #e40d0d;
+    padding: 40px;
+}
+
+body {
+    background-color: rgb(151, 151, 161);
+ 
+
+}
