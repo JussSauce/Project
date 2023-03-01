@@ -14,9 +14,12 @@ nav {
     background: #e40d0d;
     padding: 40px;
 }
+aside{
 
+}
 body {
-    background-color: rgb(151, 151, 161);
+    background-image:url("images.jpg")
  
 
 }
+
